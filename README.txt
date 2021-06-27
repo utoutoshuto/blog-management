@@ -6,3 +6,5 @@ Djangoチュートリアル
 "https://djangobrothers.com/tutorials/blog_app/environment_setup/"
 よりチュートリアル
 
+仮想環境構築
+
